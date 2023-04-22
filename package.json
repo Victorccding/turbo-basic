@@ -13,5 +13,5 @@
     "turbo": "latest"
   },
   "packageManager": "pnpm@7.15.0",
-  "type": "module",
+  "type": "module"
 }
